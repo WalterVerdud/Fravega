@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a64e75ac-3dba-48a6-9e47-d81acc462fbf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Fravega/Fravega.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fravega/src/test/java/com/fravega/Pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fravega/src/test/java/com/fravega/Pages/Helpers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fravega/src/test/java/com/fravega/Pages/busquedaPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fravega/src/test/java/com/fravega/common/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fravega/src/test/resources/Drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestPeticion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Peticiones/Http.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Peticiones/peticion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter01/chapter01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/pokemon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/test/java/Peticiones/Http.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/test/java/Peticiones/peticion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/test/java/Peticiones/pokemones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitgnore.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3.4\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jYWJGP4fod2Syw5z0Pj9BzHbxa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="peticion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Peticiones.peticion" />
+      <module name="TestPeticion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Peticiones.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.peticion" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a64e75ac-3dba-48a6-9e47-d81acc462fbf" name="Default Changelist" comment="" />
+      <created>1603981434034</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603981434034</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1604606789640">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1604606789640" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1604606789640">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1604606789640" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1604606789640">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1604606789640" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1604606789640">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1604606789640" />
+  </component>
+</project>
