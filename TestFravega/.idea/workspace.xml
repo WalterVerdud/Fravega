@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52db3fd7-7e03-4baa-9d7d-1e2aed3d9834" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Fravega.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/fravega/Pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/fravega/Pages/Helpers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/fravega/Pages/busquedaPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/fravega/common/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter01/chapter01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/pokemon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/test/java/Peticiones/Http.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/test/java/Peticiones/peticion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pokemon/src/test/java/Peticiones/pokemones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitgnore.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3.4\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jQYVYe4jU61wNfCCSXSl2IZFNO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources/Drivers" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Walter\Desktop\ProyectosWalter\Fravega\src\test\resources\Drivers" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BusquedaTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Fravega" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fravega.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fravega.Tests" />
+      <option name="MAIN_CLASS_NAME" value="com.fravega.Tests.BusquedaTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.BusquedaTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52db3fd7-7e03-4baa-9d7d-1e2aed3d9834" name="Default Changelist" comment="" />
+      <created>1603737807300</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603737807300</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1780" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603744515839">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1780" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1603744515839" />
+    <state x="2093" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603739462544">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2093" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1603739462544" />
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1604940702340">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1604940702340" />
+    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1604940702340">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1604940702340" />
+    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1604940702340">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1604940702340" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1604940702340">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1604940702340" />
+    <state x="1765" y="90" width="998" height="776" key="SettingsEditor" timestamp="1604519722810">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1765" y="90" width="998" height="776" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1604519722810" />
+    <state x="1917" y="181" key="new project wizard" timestamp="1603981429125">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1917" y="181" key="new project wizard/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1603981429125" />
+    <state x="1989" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603812878975">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1989" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1603812878975" />
+  </component>
+</project>
